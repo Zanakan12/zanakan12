@@ -1,5 +1,3 @@
-## HELLO THERE 👋
-
 # 👋 Salut ! Je suis Djihadi Raftandjani
 
 🔭 **Je travaille actuellement sur** :  
