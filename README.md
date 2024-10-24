@@ -1,5 +1,5 @@
 ## HELLO THERE 👋
-<!--
+
 **Zanakan12/zanakan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 🔭 I’m currently working on: Developing my skills as a full-stack developer, focusing on Go, C++, HTML, and using Dear ImGui for system monitoring projects. I’ve also created a forum using Go.
@@ -10,6 +10,5 @@ Here are some ideas to get you started:
 📫 How to reach me: You can contact me via [preferred contact method, e.g., email or social media handle].
 😄 Pronouns: He/Him
 ⚡ Fun fact: I’m passionate about learning different dialects, including Tunisian, and I’m always excited to dive into new programming challenges!
--->
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zanakan12&layout=compact)
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Zanakan12&show_icons=true&count_private=true&theme=radical)
