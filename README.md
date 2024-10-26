@@ -31,5 +31,6 @@ Vous pouvez me joindre via [ton contact préféré, e.g., email ou réseau socia
 ⚡ **Fait amusant** :  
 Je suis passionné par l'apprentissage de différents dialectes, y compris le tunisien, et je suis toujours enthousiaste à l'idée de relever de nouveaux défis en programmation !
 
+
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zanakan12&layout=compact)
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Zanakan12&show_icons=true&count_private=true&theme=radical)
