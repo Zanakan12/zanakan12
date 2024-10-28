@@ -6,8 +6,10 @@ Développer mes compétences en tant que développeur full-stack, en me concentr
 🌱 **J'apprends actuellement** :  
 - Go language  
 - C++  
-- HTML  
-- SQLite  
+- HTML
+- Css
+- SQLite
+- Python
 - Comment utiliser Dear ImGui pour construire des interfaces graphiques.
 
 👯 **Je cherche à collaborer sur** :  
