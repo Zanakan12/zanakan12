@@ -5,7 +5,8 @@ Développer mes compétences en tant que développeur full-stack, en me concentr
 
 🌱 **J'apprends actuellement** :  
 - Go language  
-- C++  
+- C++
+- Jango  
 - HTML
 - Css
 - SQLite
