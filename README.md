@@ -1,7 +1,6 @@
 # 👋 Salut ! Je suis Djihadi Raftandjani
 
 ## 🔭 **Je travaille actuellement sur**  
-- Développer mes compétences en tant que développeur full-stack, en me concentrant sur **Go**, **C++**, **HTML**, et l'utilisation de **Dear ImGui** pour des projets de surveillance système.
 - **Création d'un site de location de vélos** : Développement d'une plateforme web permettant aux utilisateurs de réserver et de louer des vélos en ligne.
 
 ## 🌱 **J'apprends actuellement**  
