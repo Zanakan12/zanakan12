@@ -64,7 +64,7 @@ Un outil de surveillance système développé avec **Dear ImGui**, offrant des i
 ### [Netfix](https://github.com/Zanakan12/netfix)
 **Netfix** est une plateforme web qui permet aux utilisateurs de s'inscrire, de choisir et de payer pour des services offerts par diverses entreprises. Ce projet est construit en utilisant le framework **Django**.
 
-### [Site de Location de Vélos]([lien-vers-votre-projet](https://github.com/Zanakan12/ZK12BIKE))
+### [Site de Location de Vélos](https://github.com/Zanakan12/ZK12BIKE)
 Un site web permettant aux utilisateurs de réserver et de louer des vélos en ligne. Cette plateforme inclut des fonctionnalités telles que la gestion des réservations, le paiement en ligne et la gestion des disponibilités des vélos.
 
 ---
