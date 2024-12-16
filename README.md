@@ -6,11 +6,13 @@
 ## 🌱 **J'apprends actuellement**  
 - **Go**
 - **C++**
-- **Django**
+- **C**
 - **HTML**
 - **CSS**
 - **SQLite**
 - **Python**
+- **Django**
+- **javascript**
 - **Dear ImGui** pour construire des interfaces graphiques
 
 ## 👯 **Je cherche à collaborer sur**  
