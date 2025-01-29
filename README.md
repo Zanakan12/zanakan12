@@ -5,6 +5,7 @@
 
 ## 🌱 **J'apprends actuellement**  
 - **Go**
+- **JS**
 - **C++**
 - **C**
 - **HTML**
