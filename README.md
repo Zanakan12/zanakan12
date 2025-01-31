@@ -1,7 +1,7 @@
 # 👋 Salut ! Je suis Djihadi Raftandjani
 
 ## 🔭 **Je travaille actuellement sur**  
-- **Création de mon portofolio et un gestionnaire de mot de passe en C++** : Développement d'une plateforme web permettant aux utilisateurs de réserver et de louer des vélos en ligne.
+- **Création de mon portofolio et un gestionnaire de mot de passe en C++**.
 
 ## 🌱 **J'apprends actuellement**  
 - **Go**
