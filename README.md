@@ -54,7 +54,7 @@ Je suis passionné par l'apprentissage de différents dialectes, y compris le tu
 - **Langages de Programmation** : Go, C++, Python, HTML, CSS
 - **Frameworks et Bibliothèques** : Django, Dear ImGui
 - **Bases de Données** : SQLite
-- **Outils** : Git, GitHub, VS Code
+- **Outils** : Git, GitHub, VS Code, Figma
 
 ## 🌐 **Projets en Vedette**
 
