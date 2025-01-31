@@ -1,7 +1,7 @@
 # 👋 Salut ! Je suis Djihadi Raftandjani
 
 ## 🔭 **Je travaille actuellement sur**  
-- **Création d'un site de location de vélos** : Développement d'une plateforme web permettant aux utilisateurs de réserver et de louer des vélos en ligne.
+- **Création de mon portofolio et un gestionnaire de mot de passe en C++** : Développement d'une plateforme web permettant aux utilisateurs de réserver et de louer des vélos en ligne.
 
 ## 🌱 **J'apprends actuellement**  
 - **Go**
