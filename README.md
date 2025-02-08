@@ -1,7 +1,7 @@
 # 👋 Salut ! Je suis Djihadi Raftandjani
 
 ## 🔭 **Je travaille actuellement sur**  
-- **Création de mon portofolio, Tetris game et un gestionnaire de mot de passe en C++**.
+- **Tetris game et un gestionnaire de mot de passe en C++**.
 
 ## 🌱 **J'apprends actuellement**  
 - **Go**
