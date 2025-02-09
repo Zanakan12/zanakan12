@@ -1,7 +1,7 @@
 # 👋 Salut ! Je suis Djihadi Raftandjani
 
 ## 🌟 **Profil**
-Passionné de développement full-stack, je suis constamment en quête de nouvelles technologies à maîtriser. Rigoureux et patient, j’aime relever des défis complexes et optimiser les performances des systèmes. Mon expertise en **Go, C++, Python, et Django** me permet d’aborder des projets variés, allant du développement web aux outils de monitoring système.
+Apprenti développeur full-stack, je suis constamment en quête de nouvelles technologies à maîtriser. Rigoureux et patient, j’aime relever des défis complexes et optimiser les performances des systèmes. Mon expertise en **Go, C++, Python, et Django** me permet d’aborder des projets variés, allant du développement web aux outils de monitoring système.
 
 ---
 
