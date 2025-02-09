@@ -14,16 +14,16 @@ Passionné de développement full-stack, je suis constamment en quête de nouvel
 ## 📚 **Compétences Techniques**
 
 ### 🛠️ **Langages**  
-🖨️ **Go, C++, Python, JavaScript, HTML, CSS, Kotlin, Rust**  
+**Go, C++, Python, JavaScript, HTML, CSS, Kotlin, Rust**  
 
 ### 🎨 **Frameworks & Bibliothèques**  
-🔍 **Django, Dear ImGui, Android Studio, Qt Creator, Mit App Inventor**  
+**Django, Dear ImGui, Android Studio, Qt Creator, Mit App Inventor**  
 
 ### 📂 **Bases de Données**  
-💾 **SQLite, MobiDB, SQL**  
+**SQLite, MobiDB, SQL**  
 
 ### 🛠️ **Outils & Extra**  
-🛠️ **Git, GitHub, Docker, UML, Figma, VS Code**  
+**Git, GitHub, Docker, UML, Figma, VS Code**  
 
 ---
 
