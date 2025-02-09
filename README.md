@@ -64,7 +64,7 @@ Une plateforme en ligne pour la réservation et la location de vélos, avec gest
 📧 **Email** : [zanakan12maniac@proton.me](mailto:zanakan12maniac@proton.me)  
 🌐 **GitHub** : [Zanakan12](https://github.com/Zanakan12)  
 💼 **LinkedIn** : [Profil](https://www.linkedin.com/in/raftandjani-djihadi-114200350)  
-🐦 **Twitter** : [@VotreProfil](https://twitter.com/)  
+🐦 **Twitter** : [No Profile Yet](https://twitter.com/)  
 
 ---
 
