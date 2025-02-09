@@ -1,79 +1,75 @@
 # 👋 Salut ! Je suis Djihadi Raftandjani
 
-## 🔭 **Je travaille actuellement sur**  
-- **Tetris game et un gestionnaire de mot de passe en C++**.
-
-## 🌱 **J'apprends actuellement**  
-- **Go**
-- **JS**
-- **C++**
-- **C**
-- **HTML**
-- **CSS**
-- **SQLite**
-- **Python**
-- **Django**
-- **javascript**
-- **Dear ImGui** pour construire des interfaces graphiques
-
-## 👯 **Je cherche à collaborer sur**  
-Des projets open-source ou des petites tâches de développement impliquant **Go**, **C++**, **HTML** ou **Dear ImGui**.
-
-## 🤔 **Je recherche de l'aide avec**  
-- Techniques avancées en **Go**
-- Amélioration de mes connaissances sur les outils de surveillance système
-- Maîtrise de **Dear ImGui**
-
-## 💬 **Demandez-moi à propos de**  
-- Mon parcours pour devenir développeur full-stack
-- Mon projet de forum en **Go**
-- Utilisation de **Go** pour le développement backend
-- Pratiques **HTML**
-- Comment débuter avec **SQLite** et **Dear ImGui**
-
-## 📫 **Comment me contacter**  
-Vous pouvez me joindre via zanakan12maniac@proton.me .
-
-## 😄 **Pronoms**  
-He/Him
-
-## ⚡ **Fait amusant**  
-Je suis passionné par l'apprentissage de différents dialectes, y compris le tunisien, et je suis toujours enthousiaste à l'idée de relever de nouveaux défis en programmation !
+## 🌟 **Profil**
+Passionné de développement full-stack, je suis constamment en quête de nouvelles technologies à maîtriser. Rigoureux et patient, j’aime relever des défis complexes et optimiser les performances des systèmes. Mon expertise en **Go, C++, Python, et Django** me permet d’aborder des projets variés, allant du développement web aux outils de monitoring système.
 
 ---
 
-### 📊 **Statistiques GitHub**
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zanakan12&layout=compact)
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Zanakan12&show_icons=true&count_private=true&theme=radical)
-
----
-
-## 🛠 **Compétences Techniques**
-
-- **Langages de Programmation** : Go, C++, Python, HTML, CSS
-- **Frameworks et Bibliothèques** : Django, Dear ImGui
-- **Bases de Données** : SQLite
-- **Outils** : Git, GitHub, VS Code, Figma
-
-## 🌐 **Projets en Vedette**
-
-### [Forum en Go](https://github.com/Zanakan12/forum)
-Un forum développé en Go sans utiliser JavaScript, permettant une communication efficace et une gestion robuste des utilisateurs.
-
-### [Systeme Monitor](https://github.com/Zanakan12/system-monitor)
-Un outil de surveillance système développé avec **Dear ImGui**, offrant des interfaces graphiques intuitives pour surveiller les performances et les ressources du système.
-
-### [Netfix](https://github.com/Zanakan12/netfix)
-**Netfix** est une plateforme web qui permet aux utilisateurs de s'inscrire, de choisir et de payer pour des services offerts par diverses entreprises. Ce projet est construit en utilisant le framework **Django**.
-
-### [Site de Location de Vélos](https://github.com/Zanakan12/ZK12BIKE)
-Un site web permettant aux utilisateurs de réserver et de louer des vélos en ligne. Cette plateforme inclut des fonctionnalités telles que la gestion des réservations, le paiement en ligne et la gestion des disponibilités des vélos.
+## 🔥 **Projets Actuels**  
+- 🎮 **Tetris Game** *(JavaScript, DOM)* : Finalisation du moteur de jeu et gestion des collisions.  
+- 🔑 **PwdSecure** *(C++, Qt Creator)* : Gestionnaire de mots de passe avec chiffrement et interface intuitive.
 
 ---
 
-## 📈 **Suivez-moi**
+## 📚 **Compétences Techniques**
 
-- [GitHub](https://github.com/Zanakan12)
-- [LinkedIn](https://www.linkedin.com/in/votre-profil)
-- [Twitter](https://twitter.com/votre-profil)
+### 🛠️ **Langages**  
+🖨️ **Go, C++, Python, JavaScript, HTML, CSS, Kotlin, Rust**  
+
+### 🎨 **Frameworks & Bibliothèques**  
+🔍 **Django, Dear ImGui, Android Studio, Qt Creator, Mit App Inventor**  
+
+### 📂 **Bases de Données**  
+💾 **SQLite, MobiDB, SQL**  
+
+### 🛠️ **Outils & Extra**  
+🛠️ **Git, GitHub, Docker, UML, Figma, VS Code**  
+
+---
+
+## 🌐 **Projets en Vedette**  
+### 🚀 [Forum en Go](https://github.com/Zanakan12/forum)  
+Un forum développé en **Go** sans JavaScript, permettant une communication efficace et une gestion robuste des utilisateurs.  
+
+### 🔄 [System Monitor](https://github.com/Zanakan12/system-monitor)  
+Outil de surveillance système avec **Dear ImGui**, offrant une interface intuitive pour surveiller les performances CPU/RAM/GPU.  
+
+### 📺 [Netfix](https://github.com/Zanakan12/netfix)  
+Une plateforme web permettant aux utilisateurs de s'inscrire, de choisir et de payer pour des services variés (**Django**).  
+
+### 🛵 [Site de Location de Vélos](https://github.com/Zanakan12/ZK12BIKE)  
+Une plateforme en ligne pour la réservation et la location de vélos, avec gestion des disponibilités et paiements.
+
+---
+
+## 💡 **Je cherche à collaborer sur**  
+- Projets open-source ou missions impliquant **Go, C++, HTML, Django, ou Dear ImGui**.  
+- Optimisation de performances, jeux interactifs, outils de monitoring.  
+
+## 🤖 **Je recherche de l'aide avec**  
+- **Techniques avancées en Go** (*optimisation mémoire, gestion des goroutines*).  
+- **Dear ImGui** (*layouts avancés, widgets personnalisés*).  
+- **Surveillance système** (*affichage et récupération optimisée des données CPU/RAM/GPU*).  
+
+---
+
+## 📈 **Statistiques GitHub**  
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zanakan12&layout=compact)  
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Zanakan12&show_icons=true&count_private=true&theme=radical)  
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Zanakan12&theme=react-dark)  
+
+---
+
+## 👤 **Contact**  
+📧 **Email** : [zanakan12maniac@proton.me](mailto:zanakan12maniac@proton.me)  
+🌐 **GitHub** : [Zanakan12](https://github.com/Zanakan12)  
+💼 **LinkedIn** : [Profil](https://www.linkedin.com/in/raftandjani-djihadi-114200350)  
+🐦 **Twitter** : [@VotreProfil](https://twitter.com/)  
+
+---
+
+## ✨ **Fun Fact**  
+Je suis passionné par l'apprentissage des dialectes, notamment le **tunisien**, et je suis toujours enthousiaste à l'idée de relever de nouveaux défis en programmation !  
+
+💡 **Toujours prêt à échanger sur du code ! N'hésitez pas à me contacter. 🚀**
+
