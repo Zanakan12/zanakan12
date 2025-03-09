@@ -6,7 +6,7 @@ Apprenti développeur full-stack, je suis constamment en quête de nouvelles tec
 ---
 
 ## 🔥 **Projets Actuels**  
-- 🎮 **Tetris Game** *(JavaScript, DOM)* : Finalisation du moteur de jeu et gestion des collisions.  
+- relatime forum : implémentation de la discution en ligne 
 - 🔑 **PwdSecure** *(C++, Qt Creator)* : Gestionnaire de mots de passe avec chiffrement et interface intuitive.
 
 ---
