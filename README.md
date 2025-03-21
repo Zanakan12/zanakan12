@@ -34,7 +34,7 @@ Un forum développé en **Go** sans JavaScript, permettant une communication eff
 ### 🔄 [System Monitor](https://github.com/Zanakan12/system-monitor)  
 Outil de surveillance système avec **Dear ImGui**, offrant une interface intuitive pour surveiller les performances CPU/RAM/GPU.  
 
-### 📺 [Netfix](https://github.com/Zanakan12/netfix)  
+### 🛠️ [Netfix](https://github.com/Zanakan12/netfix)  
 Une plateforme web permettant aux utilisateurs de s'inscrire, de choisir et de payer pour des services variés (**Django**).  
 
 ### 🛵 [Site de Location de Vélos](https://github.com/Zanakan12/ZK12BIKE)  
