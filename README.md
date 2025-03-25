@@ -23,7 +23,7 @@ Apprenti développeur full-stack, je suis constamment en quête de nouvelles tec
 **SQLite, MobiDB, SQL**  
 
 ### 🛠️ **Outils & Extra**  
-**Git, GitHub, Docker, UML, Figma, VS Code**  
+**Git, GitHub, Docker, UML, Figma, VS Code, Api Rest**  
 
 ---
 
