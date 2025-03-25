@@ -6,7 +6,7 @@ Apprenti développeur full-stack, je suis constamment en quête de nouvelles tec
 ---
 
 ## 🔥 **Projets Actuels**  
-- relatime forum : implémentation de la discution en ligne 
+- 👨🏾‍💻 **Relatime forum** : Implémentation de la discution en direct sur le Forum et upgrade vers un one page
 - 🔑 **PwdSecure** *(C++, Qt Creator)* : Gestionnaire de mots de passe avec chiffrement et interface intuitive.
 
 ---
