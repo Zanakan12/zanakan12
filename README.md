@@ -14,7 +14,7 @@ Apprenti développeur full-stack, je suis constamment en quête de nouvelles tec
 ## 📚 **Compétences Techniques**
 
 ### 🛠️ **Langages**  
-**Go, C++, Python, JavaScript, HTML, CSS, Kotlin, Rust**  
+**Go, C++, Python, JavaScript, HTML, CSS, Kotlin, Rust(en apprentissage)**  
 
 ### 🎨 **Frameworks & Bibliothèques**  
 **Django, Dear ImGui, Android Studio, Qt Creator, Mit App Inventor**  
