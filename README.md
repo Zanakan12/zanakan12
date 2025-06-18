@@ -6,7 +6,7 @@ Apprenti développeur full-stack, je suis constamment en quête de nouvelles tec
 ---
 
 ## 🔥 **Projets Actuels**  
-- 👨🏾‍💻 **Relatime forum** : Implémentation de la discution en direct sur le Forum et upgrade vers un one page
+- 👨🏾‍💻 **Social Network** 
 - 🔑 **PwdSecure** *(C++, Qt Creator)* : Gestionnaire de mots de passe avec chiffrement et interface intuitive.
 
 ---
@@ -14,16 +14,16 @@ Apprenti développeur full-stack, je suis constamment en quête de nouvelles tec
 ## 📚 **Compétences Techniques**
 
 ### 🛠️ **Langages**  
-**Go, C++, Python, JavaScript, HTML, CSS, Kotlin, Rust(en apprentissage)**  
+**Go, C++, Python, JavaScript, HTML, CSS, Kotlin, PHP, Rust(en apprentissage)**  
 
 ### 🎨 **Frameworks & Bibliothèques**  
-**Django, Dear ImGui, Android Studio, Qt Creator, Mit App Inventor**  
+**Django, Dear ImGui, Android Studio, Qt Creator, Mit App Inventor, React, Next**  
 
 ### 📂 **Bases de Données**  
 **SQLite, MobiDB, SQL**  
 
 ### 🛠️ **Outils & Extra**  
-**Git, GitHub, Docker, UML, Figma, VS Code, Api Rest, React, Next**  
+**Git, GitHub, Docker, UML, Figma, VS Code, Api Rest**  
 
 ---
 
